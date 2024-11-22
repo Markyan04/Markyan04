@@ -5,12 +5,11 @@ Hello everyone, I’m **Markyan04**, a passionate tech enthusiast from **Shenzhe
 I'm currently a **second-year Software Engineering student** at **South China Normal University** and **University of Aberdeen**. My passion lies in exploring cutting-edge development technologies and applying them to solve real-world problems.
 
 ------
-
 ### 💻 Development Projects
 1. **[Machine Learning-Based Traditional Chinese Medicine Tongue Diagnosis](https://github.com/TonguePicture-SKaRD/TongueDiagnosis)**
    - Developed an automated **tongue diagnosis system** leveraging deep learning techniques.
    - Deployed the trained model into a web application for user-friendly interaction.
-2. **[Integrated Appointment System for the Aberdeen Data Science and AI School](https://github.com/orgs/AbdOfficeHour/repositories)**
+2. **[Integrated Appointment System for Aberdeen Institute of Data Science and Artificial Intelligence, SCNU](https://github.com/orgs/AbdOfficeHour/repositories)**
    - Built a comprehensive appointment platform to optimize administrative efficiency.
    - Delivered both **mini-program** and **web applications** for faculty and students.
 3. **[Campus Second-Hand Trading Platform - GoodsExchange](https://github.com/orgs/GoodsExchangeSCNU/repositories)**
@@ -18,7 +17,6 @@ I'm currently a **second-year Software Engineering student** at **South China No
    - Enhanced the convenience of trading items among students.
 
 ------
-
 ### 🛠️ Technical Stack
 
 #### **Programming Languages**
@@ -41,14 +39,12 @@ I'm currently a **second-year Software Engineering student** at **South China No
 - **Web Server**: Nginx
 
 ------
-
 ### 🌟 Highlights
 - Experienced in building **full-stack applications** for web and mobile platforms.
 - Proficient in integrating **AI/ML models** into production-grade web applications.
 - Skilled at leveraging modern technologies like **Docker** and **Nginx** for scalable deployments.
 
 ------
-
 ### 📫 Let's Connect!
 Feel free to connect with me on:
 - [GitHub](https://github.com/Markyan04)
