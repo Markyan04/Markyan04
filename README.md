@@ -52,7 +52,7 @@ I am a technology enthusiast, especially keen on all kinds of development techno
 Feel free to connect with me on:
 - [GitHub](https://github.com/Markyan04)
 - [Personal Website](https://github.com/Markyan04) (Under construction)
-- [Email](hongyu.yan@163.com) (hongyu.yan@163.com)
+- [Email](mailto:hongyu.yan@163.com) (hongyu.yan@163.com)
 
 ------
 
