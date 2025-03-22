@@ -9,6 +9,7 @@ I am a technology enthusiast, especially keen on all kinds of development techno
 ------
 
 ### 💻 Development Projects
+​​​​​​​![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Markyan04&show_icons=true)
 1. **[Machine Learning-Based Traditional Chinese Medicine Tongue Diagnosis](https://github.com/TonguePicture-SKaRD/TongueDiagnosis)**
    - Developed an automated **tongue diagnosis system** leveraging deep learning techniques.
    - Deployed the trained model into a web application for user-friendly interaction.
@@ -26,20 +27,13 @@ I am a technology enthusiast, especially keen on all kinds of development techno
 - Python, JavaScript, Java
 
 #### **Frontend Development**
-- **Basics**: HTML5, CSS3, JavaScript
-- **Framework**: Vue3
-- **UI Components**: Element Plus
-- **Tools**: Axios
+HTML5, CSS3, JavaScript, Vue3, Element Plus, Axios, Sentry
 
 #### **Backend Development**
-- **Frameworks**: Spring Boot, FastAPI, Express
-- **Tools**: Maven, Mybatis
-- **Databases**: MySQL, SQLite3, MongoDB
+Spring Boot, FastAPI, Express, Maven, Mybatis Plus, MySQL, SQLite3, MongoDB
 
 #### **Server Technologies**
-- **Operating System**: Ubuntu
-- **Containerization**: Docker
-- **Web Server**: Nginx
+Docker, Nginx, Jenkins
 
 ------
 ### 🌟 Highlights
@@ -51,7 +45,7 @@ I am a technology enthusiast, especially keen on all kinds of development techno
 ### 📫 Let's Connect!
 Feel free to connect with me on:
 - [GitHub](https://github.com/Markyan04)
-- [Personal Website](https://github.com/Markyan04) (Under construction)
+- [Personal Website](http://markyan04.cn) 
 - [Email](mailto:hongyu.yan@163.com) (hongyu.yan@163.com)
 
 ------
