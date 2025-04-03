@@ -23,22 +23,22 @@ I am a technology enthusiast, especially keen on all kinds of development techno
 ### 🛠️ Technical Stack
 
 #### **Programming Languages**
-- Python, JavaScript, Java
+- JavaScript
+- Java
+- Python
 
 #### **Frontend Development**
-HTML5, CSS3, JavaScript, Vue3, Element Plus, Axios, Sentry
+- HTML5, CSS3, JavaScript
+- Vue3, Element Plus, Pinia
+- Axios, i18n
 
 #### **Backend Development**
-Spring Boot, FastAPI, Express, Maven, Mybatis Plus, MySQL, SQLite3, MongoDB
+- Spring Boot, Maven, Mybatis Plus
+- FastAPI, Node.js, Express
+- MySQL, SQLite3, MongoDB
 
 #### **Server Technologies**
-Docker, Nginx, Jenkins
-
-------
-### 🌟 Highlights
-- Experienced in building **full-stack applications** for web and mobile platforms.
-- Proficient in integrating **AI/ML models** into production-grade web applications.
-- Skilled at leveraging modern technologies like **Docker** and **Nginx** for scalable deployments.
+- Docker, Nginx, Jenkins, Sentry
 
 ------
 ### 📫 Let's Connect!
