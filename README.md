@@ -23,18 +23,19 @@ I am a technology enthusiast, especially keen on all kinds of development techno
 ### 🛠️ Technical Stack
 
 #### **Programming Languages**
-- JavaScript
 - Java
+- JavaScript
 - Python
 
 #### **Frontend Development**
 - HTML5, CSS3, JavaScript
-- Vue3, Element Plus, Pinia
-- Axios, i18n
+- Vue3, Pinia, Element Plus, Vue-i18n
+- Axios, Vite
 
 #### **Backend Development**
-- Spring Boot, Maven, Mybatis Plus
-- FastAPI, Node.js, Express
+- Spring Boot, SpringMVC, Srping, Mybatis, Maven
+- FastAPI, Express, Node.js
+- RESTful, WebSocket, GraphQL
 - MySQL, SQLite3, MongoDB
 
 #### **Server Technologies**
