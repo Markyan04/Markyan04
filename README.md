@@ -23,8 +23,8 @@ I am a technology enthusiast, especially keen on all kinds of development techno
 ### 🛠️ Technical Stack
 
 #### **Programming Languages**
-- Java
 - JavaScript
+- Java
 - Python
 
 #### **Frontend Development**
@@ -33,8 +33,8 @@ I am a technology enthusiast, especially keen on all kinds of development techno
 - Axios, Vite
 
 #### **Backend Development**
-- Spring Boot, SpringMVC, Srping, Mybatis, Maven
-- FastAPI, Express, Node.js
+- Spring Boot, Spring, SpringMVC, Maven, Mybatis
+- FastAPI, Node.js, Express
 - RESTful, WebSocket, GraphQL
 - MySQL, SQLite3, MongoDB
 
