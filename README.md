@@ -9,7 +9,6 @@ I am a technology enthusiast, especially keen on all kinds of development techno
 ------
 
 ### 💻 Development Projects
-​​​​​​​![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Markyan04&show_icons=true)
 1. **[Machine Learning-Based Traditional Chinese Medicine Tongue Diagnosis](https://github.com/TonguePicture-SKaRD/TongueDiagnosis)**
    - Developed an automated **tongue diagnosis system** leveraging deep learning techniques.
    - Deployed the trained model into a web application for user-friendly interaction.
