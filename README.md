@@ -18,7 +18,6 @@ I am a technology enthusiast, especially keen on all kinds of development techno
 ### 🩺 [TCM Tongue Diagnosis AI](https://github.com/markyan04/project-tongue-diagnosis)  
 > *Web/Desktop App for AI-Powered Health Diagnosis*  
 **Tech Stack**: Vue3 + FastAPI + Sqlite3 + PyTorch + Electron  
-**Key Contributions**:  
 - Trained YOLOv5/SAM/ResNet-SE models for tongue segmentation and feature extraction.  
 - Integrated DeepSeek LLM for diagnostic suggestions.  
 **Achievements**:  
@@ -29,7 +28,6 @@ I am a technology enthusiast, especially keen on all kinds of development techno
 ### 📅 [Aberdeen College Booking System](https://abdnims.scnu.edu.cn)  
 > *Full-stack Scheduling Platform*  
 **Tech Stack**: Vue3 + Spring Boot + Spring Data JPA + Mybatis + MySQL + Sentry + Jenkins  
-**Key Contributions**:  
 - Built a comprehensive appointment platform to optimize administrative efficiency.
 - Designed architecture and developed frontend (Vue3 + Pinia).  
 - Implemented CI/CD with Jenkins and monitoring with Sentry.  
@@ -39,7 +37,6 @@ I am a technology enthusiast, especially keen on all kinds of development techno
 ### ♻️ [GoodsExchange (Campus Marketplace)](https://github.com/markyan04/goodsexchange)  
 > *Second-hand Trading Platform with Real-time Chat*  
 **Tech Stack**: Vue3 + Django + Electron 
-**Key Contributions**:
 - Designed and developed a campus-specific network platform for second-hand trading.
 - Built RESTful + WebSocket APIs for dynamic interactions.  
 - Developed full frontend and created comprehensive docs (API/DB/Test).  
