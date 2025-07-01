@@ -9,7 +9,7 @@
 
 Hello everyone, I’m **Markyan04**, a passionate tech enthusiast from **Shenzhen, Guangdong, China**.
 I'm currently a **second-year Software Engineering student** at **South China Normal University** and **University of Aberdeen**. 
-I am a technology enthusiast, especially keen on all kinds of development technology! At present, I am learning Web development technology, and the next stage is to go deep into mobile development.
+I am a technology enthusiast, especially keen on all kinds of development technology! At present, I am learning Web development technology, and the next stage is to go deep into distributed system.
 
 ---
 
