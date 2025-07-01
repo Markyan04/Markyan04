@@ -16,7 +16,7 @@ I am a technology enthusiast, especially keen on all kinds of development techno
 ## 💼 Featured Projects
 
 ### 🩺 [TCM Tongue Diagnosis AI](https://github.com/markyan04/project-tongue-diagnosis)  
-> *Guangdong Provincial Innovation Project | Web/Desktop App for AI-Powered Health Diagnosis*  
+> *Web/Desktop App for AI-Powered Health Diagnosis*  
 **Tech Stack**: Vue3 + FastAPI + PyTorch + Electron  
 **Key Contributions**:  
 - Trained YOLOv5/SAM/ResNet-SE models for tongue segmentation and feature extraction.  
@@ -28,7 +28,7 @@ I am a technology enthusiast, especially keen on all kinds of development techno
   ✅ Pending Software Copyright  
 
 ### 📅 [Aberdeen College Booking System](https://abdnims.scnu.edu.cn)  
-> *SCNU Research Project | Full-stack Scheduling Platform*  
+> Full-stack Scheduling Platform*  
 **Tech Stack**: Vue3 + Spring Boot + MySQL + Sentry + Jenkins  
 **Key Contributions**:  
 - Led team as **Project Manager** (requirement/process/documentation).  
