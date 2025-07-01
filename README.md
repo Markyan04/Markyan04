@@ -71,7 +71,6 @@ I am a technology enthusiast, especially keen on all kinds of development techno
 ## 📬 Let's Connect!    
 Reach me via:  
 - 📩 Email: [hongyu.yan@163.com](mailto:hongyu.yan@163.com)  
-- 💬 WeChat: `13510001553`
 
 ---
 
